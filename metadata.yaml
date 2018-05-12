@@ -1,5 +1,5 @@
 _repo: Acres-of-Diamonds--Our-Every-day-Opportunities_368
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Shackleton, Robert
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1923
     gutenberg_agent_id: '38534'
     url: http://www.gutenberg.org/2009/agents/38534
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conwell, Russell H.
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/203
     wikipedia: http://en.wikipedia.org/wiki/Russell_Conwell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/368#Acres-of-Diamonds--Our-Every-day-Opportunities
 gutenberg_issued: '2008-06-29'
 gutenberg_type: Text
 identifiers:
